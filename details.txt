@@ -1,1 +1,2 @@
 A work plan for a sampling project
+First we need to gather instrumentation
