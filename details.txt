@@ -1,3 +1,4 @@
 A work plan for a sampling project
 We need to gather instrumentation
 Instrumentation is very important.
+And we need snacks.
